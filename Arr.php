@@ -1,6 +1,6 @@
 <?php
 
-$telegram_emojis = [
+$emoticons = [
     ':smile:'                           => "\u{1f604}",
     ':smiley:'                          => "\u{1f603}",
     ':grinning:'                        => "\u{1f600}",
